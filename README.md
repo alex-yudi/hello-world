@@ -6,3 +6,4 @@ Exercício de Casa - Aula "Setup de ferramentas"
     ### git clone
     ### git commit
     ### push
+    ### pull
